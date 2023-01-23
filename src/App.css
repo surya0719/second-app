@@ -1,0 +1,16 @@
+.App {
+  display: grid;
+  gap :10px;
+  grid-template-columns: repeat(3, 1fr);
+
+}
+
+
+.image{
+  width: 200px;
+  height:200px;
+}
+.main-div{
+  border: 1px solid black;
+  text-align: center;
+}
